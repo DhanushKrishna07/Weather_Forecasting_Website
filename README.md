@@ -66,4 +66,4 @@ Planned features include:
 git clone https://github.com/DhanushKrishna07/Weather.git
 cd Weather
 npm install
-node app.js
+npm start

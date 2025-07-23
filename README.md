@@ -56,8 +56,6 @@ Planned features include:
 
 ➡️ [View Full Demo](assets/demo/Full_Demo_Weather_Project.mkv)
 
-*(Or preview it if supported in your GitHub environment)*
-
 ---
 
 ## 🚀 Getting Started

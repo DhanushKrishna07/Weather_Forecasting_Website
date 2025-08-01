@@ -61,7 +61,7 @@ Planned features include:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/DhanushKrishna07/Weather.git
-cd Weather
+git clone https://github.com/DhanushKrishna07/horizon-weather.git
+cd horizon-weather/weather
 npm install
 npm start
